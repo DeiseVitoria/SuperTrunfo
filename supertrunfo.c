@@ -7,7 +7,7 @@ int populacao1, pontos1;
 float area1, pib1, densidade1, pib_per_capita1;
 
 //Entrada de dados da primeira carta
-printf ("Cadsatro da primeira carta\n");
+printf ("Cadastro da primeira carta\n");
 
 printf("Digite a sigla do estado: \n");
 scanf("%s", estado1);
